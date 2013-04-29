@@ -6,3 +6,5 @@ _tmp
 .bundle
 vendor
 *.swp
+.idea
+*.iml
